@@ -1,10 +1,10 @@
 ### Olá 👋, aqui é o Victor de Paula
 
-Sou novo no mundo da programação. Meu primeiro contato foi através de algumas ferramentas para desenvolvimento de jogos como o RPG Maker. Sou um grande fã de jogos desde criança, é uma das coisas que me ajudam a relaxar.
-
-Estou dedicando meu tempo principalmente ao HTML, CSS e iniciando em JavaScript. No momento, desenvolvimento web tem sido o meu foco principal. 
+Sou novo no mundo da programação. Estou dedicando meu tempo principalmente ao HTML, CSS e iniciando em JavaScript. No momento, desenvolvimento web tem sido o meu foco principal. 
 
 Também estou buscando conhecer pessoas que estão iniciando nessa área, acredito que as coisas sejam mais interessantes e divertidas com colegas. Sendo novo na área, não tenho muito conhecimento técnico para ajudar. Mas tenho boa vontade para auxiliar em algum projeto no que for possível.
+
+Tenho costume de jogar no meu tempo livre, é uma das coisas que me ajudam a relaxar na correria do dia a dia. 
 
 Você pode me encontrar em: Victorr.programming@gmail.com
 <!--
