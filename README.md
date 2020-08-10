@@ -2,7 +2,7 @@
 
 Sou novo no mundo da programação. Estou dedicando meu tempo principalmente ao HTML, CSS e iniciando em JavaScript. No momento, desenvolvimento web tem sido o meu foco principal. 
 
-Também estou buscando conhecer pessoas que estão iniciando nessa área, acredito que as coisas sejam mais interessantes e divertidas com colegas. Sendo novo na área, não tenho muito conhecimento técnico para ajudar. Mas tenho boa vontade para auxiliar em algum projeto no que for possível.
+Também estou buscando conhecer pessoas que estão iniciando nessa área, acredito que as coisas sejam mais interessantes e divertidas com colegas. Sendo novo por aqui, não tenho muito conhecimento técnico para ajudar. Porém, tenho boa vontade para auxiliar em algum projeto no que for possível.
 
 Tenho costume de jogar no meu tempo livre, é uma das coisas que me ajudam a divertir e relaxar.
 
