@@ -4,7 +4,7 @@ Sou novo no mundo da programação. Estou dedicando meu tempo principalmente ao 
 
 Também estou buscando conhecer pessoas que estão iniciando nessa área, acredito que as coisas sejam mais interessantes e divertidas com colegas. Sendo novo na área, não tenho muito conhecimento técnico para ajudar. Mas tenho boa vontade para auxiliar em algum projeto no que for possível.
 
-Tenho costume de jogar no meu tempo livre, é uma das coisas que me ajudam a relaxar na correria do dia a dia. 
+Tenho costume de jogar no meu tempo livre, é uma das coisas que me ajudam a divertir e relaxar.
 
 Você pode me encontrar em: Victorr.programming@gmail.com
 <!--
